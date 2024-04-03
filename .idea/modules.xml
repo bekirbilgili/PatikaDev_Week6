@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaIO/JavaIO.iml" filepath="$PROJECT_DIR$/JavaIO/JavaIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotePadApplication/NotePadApplication.iml" filepath="$PROJECT_DIR$/NotePadApplication/NotePadApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PatikaDev_Week6.iml" filepath="$PROJECT_DIR$/.idea/PatikaDev_Week6.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadFromFileandSum/ReadFromFileandSum.iml" filepath="$PROJECT_DIR$/ReadFromFileandSum/ReadFromFileandSum.iml" />
     </modules>
